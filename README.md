@@ -3,8 +3,6 @@
 # Markdown Emmojis
 #### "Heavy Cheack Mark": :heavy_check_mark:
 #### "Cross": :x:
-#### "Cross": :x:
-
 
 # Exhaustive Table of Contents 
 ## Algorithm analysis
