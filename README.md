@@ -3,7 +3,7 @@
 # Markdown Emmojis
 #### "Heavy Cheack Mark": :heavy_check_mark:
 #### "Cross": :x:
-#HI
+
 # Exhaustive Table of Contents 
 ## Algorithm analysis
 * Master theorem
