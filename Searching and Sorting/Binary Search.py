@@ -19,4 +19,7 @@ arr1 = [10, 20, 30, 40]
 x = int(input())
 
 results = Binary_Search(arr1, 0, len(arr1)-1, x)
-print("Number at", results+1)
+if results == -1:
+    print("Not Found")
+else:
+    print("Number at", results+1)
