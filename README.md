@@ -16,7 +16,7 @@
 * Sparse Table
 
 ## Searching and Sorting
-* Binary Search
+* Binary Search :heavy_check_mark:
 * Ternary Search
 * Exponential Search
 * Fibonacci Search
