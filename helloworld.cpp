@@ -7,10 +7,11 @@ using namespace std;
 int main(){
     vector<string> msg {"Hello", "c++", "World", "from", "VS Code!"};
 
-    for (const string& word:msg){
-        cout << word << " ";
+    // for (const string& word:msg){
+        
 
-    }
+    // }
+    cout << 10 / 4 * 4 << " ";
     cout << endl;
 }
 
