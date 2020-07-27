@@ -1,25 +1,32 @@
 # Implementation
 
 # Markdown Emmojis
+
 #### "Heavy Cheack Mark": :heavy_check_mark:
+
 #### "Cross": :x:
 
-# Exhaustive Table of Contents 
+# Exhaustive Table of Contents
+
 ## Algorithm analysis
+
 * Master theorem
 * Amortized time complexity
+
 ## Data Structures
 
 ### Fundamental
+
 * Minimum Stack
 * Minimum Queue
 * Sparse Table
 
 ## Searching and Sorting
-* Linear Search :heavy_check_mark:
-* Binary Search :heavy_check_mark:
-* Ternary Search 
-* Exponential Search :heavy_check_mark:
+
+* Linear Search
+* Binary Search
+* Ternary Search
+* Exponential Search
 * Fibonacci Search
 * Interpolation Search
 * Jump Search
@@ -34,6 +41,7 @@
 * Radix Sort
 
 ### Trees
+
 * Union-Find Disjoint Sets
 * Binary Tree
 * Binary Search Tree
@@ -53,6 +61,7 @@
 * Splay Tree
 
 ### Graph theory
+
 * Traversals
 	* Depth first search
 	* Breadth first search
@@ -125,13 +134,16 @@
 
 
 ## Algorithmic Paradigms
+
 ### Greedy algorithm
+
 * Scheduling
 * Max contiguous subvector sum
 * Invariants
 * Huffman encoding
 
 ### Dynamic programming
+
 * Knapsack
 * Coin change
 * Longest common subsequence
@@ -151,7 +163,9 @@
 * Log partitioning (loop over most restricted)
 
 ## Math
+
 ### Combinatorics
+
 * Computation of binomial coefficients
 * Pigeon-hole principle
 * Inclusion/exclusion
@@ -159,6 +173,7 @@
 * Pick's theorem
 
 ### Number theory
+
 * Integer parts
 * Divisibility
 * Euclidean algorithm
@@ -178,6 +193,7 @@
 * Vieta root jumping
 
 ### Game theory
+
 * Combinatorial games
 * Game trees
 * Mini-max
@@ -190,16 +206,19 @@
 * Alpha-beta pruning
 
 ### Numerical methods
+
 * Numeric integration
 * Newton's method
 * Root-finding with binary/ternary search
 * Golden section search
 
 ### Matrices
+
 * Gaussian elimination
 * Exponentiation by squaring
 
 ## Geometry
+
 * Coordinates and vectors
 	* Cross product
 	* Scalar product
@@ -212,6 +231,7 @@
 * All segment-segment intersection
 
 ## Strings
+
 * Longest common substring
 * Palindrome subsequences
 * Knuth-Morris-Pratt
@@ -224,7 +244,9 @@
 * Letter position lists
 
 ## Others
+
 ### Combinatorial search
+
 * Meet in the middle
 * Brute-force with pruning
 * Best-first (A*)
@@ -233,12 +255,14 @@
 * MiniMax
 
 ### Sweeping
+
 * Discretization (convert to events and sweep)
 * Angle sweeping
 * Line sweeping
 * Discrete second derivatives
 
 ### Data structures related
+
 * LCA (2^k-jumps in trees in general)
 * Pull/push-technique on trees
 * Heavy-light decomposition
