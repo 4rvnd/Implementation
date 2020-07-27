@@ -38,7 +38,7 @@ main() {
     int findNum;
     insertArray(nums);
     cin >> findNum;
-    int first = 0, last = nums.size();
+    int first = 0, last = nums.size()-1;
     int ret = ternarySearch(nums, first, last, findNum);
     if (ret == -1) 
         cout << "not found";

@@ -16,7 +16,6 @@ def binary_search(arr, first, last, key):
 def exponential_search(arr, first, last, key):
     if(arr[0] == key):
         return 0;
-    
     i = 1
     while(i<last and arr[i] <= key):
         i *= 2
@@ -25,8 +24,8 @@ def exponential_search(arr, first, last, key):
 
 #driver code
 
-arr = [10, 20, 30, 40, 50]
-key = 40
+arr = [1, 2, 3, 4]
+key = 2
 
 result = exponential_search(arr, 0, len(arr), int(key))
 

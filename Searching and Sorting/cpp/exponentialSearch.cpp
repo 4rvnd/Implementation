@@ -26,7 +26,21 @@ int binarySearch(vector<int> &nums, int first, int last, int findNum) {
     }
     else {
         return -1;
-    }
+    }  
+}
+
+int min(int a, int b)
+{
+    return (a < b ? a : b);
+}
+
+int exponentialSearch(vector<int> &nums, int findNum) {
+    int i = 1, size = nums.size()-1;
+    if (nums[0] == findNum)
+        return 0;
+	while (i < size && nums[i] <= findNum) 
+		i = i*2;
+	return binarySearch(nums, i/2, min(i, size), findNum); 
 }
 
 main() {
@@ -35,7 +49,7 @@ main() {
     insertArray(nums);
     cin >> findNum;
     int first = 0, last = nums.size()-1;
-    int ret = binarySearch(nums, first, last, findNum);
+    int ret = exponentialSearch(nums, findNum);
     if (ret == -1) 
         cout << "not found";
     else
