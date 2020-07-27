@@ -21,7 +21,7 @@
 * Minimum Queue
 * Sparse Table
 
-## Searching and Sorting
+### Searching and Sorting
 
 * Linear Search :heavy_check_mark:
 * Binary Search :heavy_check_mark:
