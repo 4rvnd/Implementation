@@ -25,7 +25,7 @@
 
 * Linear Search :heavy_check_mark:
 * Binary Search :heavy_check_mark:
-* Ternary Search
+* Ternary Search :heavy_check_mark:
 * Exponential Search
 * Fibonacci Search
 * Interpolation Search
