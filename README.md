@@ -23,8 +23,8 @@
 
 ## Searching and Sorting
 
-* Linear Search
-* Binary Search
+* Linear Search :heavy_check_mark:
+* Binary Search :heavy_check_mark:
 * Ternary Search
 * Exponential Search
 * Fibonacci Search
