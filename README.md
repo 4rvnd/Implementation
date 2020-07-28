@@ -33,7 +33,7 @@
 * Insertion Sort :heavy_check_mark:
 * Selection Sort :heavy_check_mark:
 * Bubble Sort :heavy_check_mark:
-* Merge Sort
+* Merge Sort :heavy_check_mark:
 * Counting Sort
 * Quick Sort
 * Heap Sort
