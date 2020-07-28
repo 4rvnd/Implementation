@@ -30,7 +30,7 @@
 * Fibonacci Search
 * Interpolation Search
 * Jump Search
-* Insertion Sort
+* Insertion Sort :heavy_check_mark:
 * Selection Sort
 * Bubble Sort
 * Merge Sort
