@@ -31,8 +31,8 @@
 * Interpolation Search
 * Jump Search
 * Insertion Sort :heavy_check_mark:
-* Selection Sort
-* Bubble Sort
+* Selection Sort :heavy_check_mark:
+* Bubble Sort :heavy_check_mark:
 * Merge Sort
 * Counting Sort
 * Quick Sort
