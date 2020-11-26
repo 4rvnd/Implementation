@@ -30,6 +30,17 @@ void insertionSort(vi &nums) {
     }
 }
 
+void insertionSortDec(vi &nums) {
+    loop(1, sze(nums)) {
+        int key = nums[i], j = i - 1;
+        while(j>0 && key > nums[j]) {
+            nums[j+1] = nums[j];
+            j--;
+        }
+        nums[j+1] = key;
+    }
+}
+
 void displayArr(vi &nums) {
     autoLoop(i, nums) {
         cout << i << " ";
