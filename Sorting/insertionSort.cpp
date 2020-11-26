@@ -21,8 +21,8 @@ void insertArray(vi &nums) {
 
 void insertionSort(vi &nums) {
     loop(1, sze(nums)) {
-        int j = i - 1, key = nums[i];
-        while(j >= 0 && nums[j] > key) {
+        int key = nums[i], j = i - 1;
+        while(j>=0 && nums[j] > key){
             nums[j+1] = nums[j];
             j--;
         }
