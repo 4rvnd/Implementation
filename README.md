@@ -24,8 +24,8 @@
 - [ ] Fibonacci Search
 - [ ] Interpolation Search
 - [ ] Jump Search
-- [ ] Insertion Sort
-- [ ] Selection Sort
+- [x] Insertion Sort
+- [x] Selection Sort
 - [ ] Bubble Sort
 - [x] Merge Sort
 - [ ] Counting Sort
