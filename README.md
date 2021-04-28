@@ -24,10 +24,10 @@
 - [ ] Fibonacci Search
 - [ ] Interpolation Search
 - [ ] Jump Search
-- [x] Insertion Sort
+- [ ] Insertion Sort
 - [ ] Selection Sort
 - [ ] Bubble Sort
-- [ ] Merge Sort
+- [x] Merge Sort
 - [ ] Counting Sort
 - [ ] Quick Sort
 - [ ] Heap Sort
