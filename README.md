@@ -26,7 +26,7 @@
 - [ ] Jump Search
 - [x] Insertion Sort
 - [x] Selection Sort
-- [ ] Bubble Sort
+- [x] Bubble Sort
 - [x] Merge Sort
 - [ ] Counting Sort
 - [ ] Quick Sort
